@@ -48,22 +48,22 @@ Because users have a habit of credential re-use. So, even if two-factor is causi
 
 1. Challenge 1
 ![](https://github.com/dallens/CodepathWeek10SE/blob/master/w10_Ch01.png)
-
+1.1. 
 ![](https://github.com/dallens/CodepathWeek10SE/blob/master/w10_Ch1-1.png)
-
+1.2. 
 ![](https://github.com/dallens/CodepathWeek10SE/blob/master/w10_Ch1-2.gif)
 
 2. Challenge 2
 ![](https://github.com/dallens/CodepathWeek10SE/blob/master/w10_Ch2-0.png)
-
+2.1.  
 ![](https://github.com/dallens/CodepathWeek10SE/blob/master/w10_Ch2-1.gif)
-
+2.2. 
 ![](https://github.com/dallens/CodepathWeek10SE/blob/master/w10_Ch2-2.gif)
-
+2.3. 
 ![](https://github.com/dallens/CodepathWeek10SE/blob/master/w10_Ch2-3.gif)
-
+2.4. 
 ![](https://github.com/dallens/CodepathWeek10SE/blob/master/w10_Ch2-4.gif)
-
+2.5. 
 ![](https://github.com/dallens/CodepathWeek10SE/blob/master/w10_Ch2-5.gif)
 
 ## Assets
