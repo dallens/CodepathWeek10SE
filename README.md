@@ -9,16 +9,19 @@ Time spent: 15 hours spent in total
 ## Lab
 
 ### Milestone 1
+The following shows the successful creation of a single email attack creation using the Social Engineering Toolkit on Kali. The png with the Google email account is the email created using SET and sent via Kali. The png of Kali is proof of creation of the email. 
 ![](https://github.com/dallens/CodepathWeek10SE/blob/master/w10_LabM1Gmail.png)
 
 ![](https://github.com/dallens/CodepathWeek10SE/blob/master/w10_LabM1Kali.png)
 
 ### Milestone 2
+The following pngs show the successful creation of the spear phishing email with windows exploit payload. As mentioned in the lab write-up, Google did not allow the sending if the email. Instead, the error mentioned in the instructions displayed, indicating that Google blocked the exploit payload.
 ![](https://github.com/dallens/CodepathWeek10SE/blob/master/w10_LabM2Kali.png)
 
 ![](https://github.com/dallens/CodepathWeek10SE/blob/master/w10_LabM2Kali2.png)
 
 ### Milestone 3
+These pngs show the successful creation of the fake Facebook site, using the SET. The credentials entered were captured by Kali, as described in the lab instructions.
 ![](https://github.com/dallens/CodepathWeek10SE/blob/master/w10_fakefb.png)
 
 ![](https://github.com/dallens/CodepathWeek10SE/blob/master/w10_M3capture.gif)
@@ -42,7 +45,7 @@ Two-factor authentication would require that the user have access to either anot
 Because users have a habit of credential re-use. So, even if two-factor is causing difficulties in compromise for one account that doesn't mean that another account without two-factor doesn't have the same credentials. Likewise, even if one account is using a different or stronger password, that doesn't mean all user associated accounts are.
 
 ## Assignment
-
+The following gifs and pngs provide proof of completing the steps listed in the assigment instructions. This ranged from the creation of the Tails VM to visiting specific .onion sites. Certain sites of Milestone 2.3 were not visited for the sake of avoiding inadvertanly viewing what might be considered content that is illegal. Although a grey area for many, without assurances that this possibility did not exist, I could not perform the small portion of that step in good conscience.
 0. Challenge 0
 ![](https://github.com/dallens/CodepathWeek10SE/blob/master/w10_Ch0.png)
 
