@@ -23,9 +23,9 @@ The following pngs show the successful creation of the spear phishing email with
 ### Milestone 3
 These pngs show the successful creation of the fake Facebook site, using the SET. The credentials entered were captured by Kali, as described in the lab instructions.
 
-![](https://github.com/dallens/CodepathWeek10SE/blob/master/w10_fakefb.png)
+![](https://github.com/dallens/CodepathWeek10SE/blob/master/w10_LabM3fakefb.png)
 
-![](https://github.com/dallens/CodepathWeek10SE/blob/master/w10_M3capture.gif)
+![](https://github.com/dallens/CodepathWeek10SE/blob/master/w10_LabM3capture.gif)
 
 ### Milestone 6
 
